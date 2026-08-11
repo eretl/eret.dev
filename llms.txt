@@ -1,0 +1,29 @@
+# Lukáš Eret
+
+> Infrastructure and systems engineer based in Pilsen, Czechia. Runs a full stack single-handedly: Linux servers and virtualization, configuration management, monitoring, storage and backup, networking, Windows endpoint management, data pipelines, and internal applications.
+
+Contact: lukas@eret.dev
+Languages: Czech (native), English (C1)
+
+## Areas of work
+
+- Linux and virtualization: Debian, Ubuntu, Proxmox, Docker; web and mail services, patching, hardening, day-to-day operations.
+- Automation: Ansible, Bash, Python for provisioning and configuration management.
+- Observability: Prometheus, Grafana, Loki, Promtail, rsyslog; metrics and centralized log collection.
+- Storage and backup: TrueNAS, Synology, ZFS, Proxmox Backup Server; 3-2-1 strategies, offsite replication, scheduled restore tests.
+- Networking: MikroTik RouterOS, Ubiquiti, basic Cisco, WireGuard, DNS over HTTPS.
+- Endpoint management: Microsoft Intune, Entra ID, Autopilot; enrollment, compliance and configuration policies, single sign-on.
+- Data pipelines: Apache Hop and Pentaho ETL loading Czech public-sector open data registries into MySQL.
+- Applications and APIs: PHP/MySQL internal business tools, REST services and integration endpoints in Python (FastAPI, Flask).
+- Local LLM tooling: self-hosted inference with Ollama, LoRA fine-tuning on consumer AMD hardware with ROCm.
+
+## Links
+
+- [GitHub profile](https://github.com/eretl): personal repositories, including Home Assistant integrations and infrastructure tooling.
+- [Headwind MDM](https://github.com/h-mdm): open-source Android device management project; contributor (Czech localization, bugfixes, feature additions) and operator of a self-hosted server.
+- [ha-chmi-pollen](https://github.com/eretl/ha-chmi-pollen): Home Assistant integration for pollen forecast data from the Czech Hydrometeorological Institute.
+
+## Client work
+
+- [euroexpres.info](https://euroexpres.info): haulage company site taken over from a previous setup, rebuilt as a static site on Cloudflare Pages with a zero-downtime DNS cutover.
+- [lakovani-fladrovani.cz](https://www.lakovani-fladrovani.cz/): hand-written site for a decorating business, later ported to the client's preferred platform.
